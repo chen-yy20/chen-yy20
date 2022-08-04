@@ -1,6 +1,6 @@
 # 👋 Hey, nice to meet you!
 
-- I’m Roy Chen, a developer from **China**.
+- I’m Roy Chen, a developer from <img alt="China" src="https://cdn-icons-png.flaticon.com/512/197/197375.png" width="13" />**China**.
 - currently studing in **Electronic Engineering department of Tsinghua University**.
 - 📫 How to reach me： [892016730@qq.com](mailto:892016730@qq.com)
 
