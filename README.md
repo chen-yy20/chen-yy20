@@ -2,7 +2,7 @@
 
 - I’m Roy Chen, a student from <img alt="China" src="https://cdn-icons-png.flaticon.com/512/197/197375.png" width="20" /> **China**.
 - currently studying in **Electronic Engineering department of Tsinghua University**.
-- 📫 How to reach me： [892016730@qq.com](mailto:892016730@qq.com)
+- 📫 How to reach me： [chen-yy20@mails.tsinghua.edu.cn](mailto:chen-yy20@mails.tsinghua.edu.cn)
 
 ## <img alt="China" src="https://cdn-icons-png.flaticon.com/512/1053/1053367.png" width="25" />  Things I code with
 
