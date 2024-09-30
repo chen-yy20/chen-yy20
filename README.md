@@ -1,8 +1,10 @@
 # 👋 Hey, nice to meet you!
 
-- I’m Roy Chen, a student from <img alt="China" src="https://cdn-icons-png.flaticon.com/512/197/197375.png" width="20" /> **China**.
-- currently studying in **Electronic Engineering department of Tsinghua University**.
-- 📫 How to reach me： [chen-yy20@mails.tsinghua.edu.cn](mailto:chen-yy20@mails.tsinghua.edu.cn)
+- I'm Roy Chen, a Ph.D. student from <img alt="China" src="https://cdn-icons-png.flaticon.com/512/197/197375.png" width="20" /> China.
+- I completed my bachelor's degree in Electronic Engineering at Tsinghua University (THU).
+- Currently, I'm pursuing my Ph.D. at Shanghai Jiao Tong University (SJTU) under the guidance of Professor [Jidong Zhai](https://pacman.cs.tsinghua.edu.cn/~zjd/).
+- As part of my academic journey, I'm currently an intern at the Shanghai AI Laboratory, furthering my research in HPC for AI.
+- 📫 You can reach me at: [chenyuyang@pjlab.org.cn](mailto:chenyuyang@pjlab.org.cn)
 
 ## <img alt="China" src="https://cdn-icons-png.flaticon.com/512/1053/1053367.png" width="25" />  Things I code with
 
