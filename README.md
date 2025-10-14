@@ -1,7 +1,7 @@
 # 👋 Hello World!
 
 ## About Me
-I'm Roy Chen, a Ph.D. candidate specializing in High Performance Computing (HPC) and AI systems. My academic journey bridges the prestigious institutions of Tsinghua University (B.E. in Electronic Engineering) and Shanghai Jiao Tong University, where I'm currently pursuing my doctoral research in PACMAN group under the mentorship of [Prof. Jidong Zhai](https://pacman.cs.tsinghua.edu.cn/~zjd/).
+I'm Roy Chen, a Ph.D. student at Shanghai Jiao Tong University. I received my B.E. in Electronic Engineering from Tsinghua University and am now working in PACMAN Lab under the supervision of [Prof. Jidong Zhai](https://pacman.cs.tsinghua.edu.cn/~zjd/). Currently, I'm also an intern at [Shanghai AI Laboratory](https://www.shlab.org.cn/).
 
 ## Current Focus
 - 🔬 Research intern at Shanghai AI Laboratory
