@@ -1,10 +1,8 @@
 # 👋 Hello World!
 
 ## About Me
-I'm Roy Chen, a Ph.D. student at Shanghai Jiao Tong University. I received my B.E. in Electronic Engineering from Tsinghua University and am now working in PACMAN Lab under the supervision of [Prof. Jidong Zhai](https://pacman.cs.tsinghua.edu.cn/~zjd/). Currently, I'm also an intern at [Shanghai AI Laboratory](https://www.shlab.org.cn/).
-
+I'm Roy Chen, a Ph.D. student at Shanghai Jiao Tong University. I received my B.E. in Electronic Engineering from Tsinghua University and am now working in PACMAN Lab under the supervision of [Prof. Jidong Zhai](https://pacman.cs.tsinghua.edu.cn/~zjd/).
 ## Current Focus
-- 🔬 Research intern at Shanghai AI Laboratory
 - 🚀 Working at the intersection of HPC and AI
 - 💡 Exploring optimization techniques for large-scale AI systems
 - 🎯 Specializing in:
@@ -12,9 +10,13 @@ I'm Roy Chen, a Ph.D. student at Shanghai Jiao Tong University. I received my B.
   - Diffusion Models
   - Parallel Algorithm Design
   - Memory/Communication Optimization
+- Collaborating with:
+  - Qingcheng.ai  
+  - Shanghai AI Lab
+  - Kling Team, Kuaishou
 
 ## Connect With Me
-📫 Feel free to reach out: [chenyuyang@pjlab.org.cn](mailto:chenyuyang@pjlab.org.cn)
+📫 Feel free to reach out: [chen-yy20@sjtu.edu.cn](mailto:chen-yy20@sjtu.edu.cn)
 
 🌏 Currently based in Beijing, China <img alt="China" src="https://cdn-icons-png.flaticon.com/512/197/197375.png" width="16" />
 
