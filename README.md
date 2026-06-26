@@ -14,6 +14,7 @@ I'm Roy Chen, a Ph.D. student at Shanghai Jiao Tong University. I received my B.
   - Qingcheng.ai  
   - Shanghai AI Lab
   - Kling Team, Kuaishou
+  - Hunyuan Infra, Tencent
 
 ## Connect With Me
 📫 Feel free to reach out: [chen-yy20@sjtu.edu.cn](mailto:chen-yy20@sjtu.edu.cn)
